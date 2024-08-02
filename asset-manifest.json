@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Studynotion/static/css/main.5ca9afe0.css",
+    "main.js": "/Studynotion/static/js/main.2dea466a.js",
+    "static/media/signup.webp": "/Studynotion/static/media/signup.acaf50bcb11d9aec44b4.webp",
+    "static/media/login.webp": "/Studynotion/static/media/login.5eeb0b81544a40330d4b.webp",
+    "index.html": "/Studynotion/index.html",
+    "main.5ca9afe0.css.map": "/Studynotion/static/css/main.5ca9afe0.css.map",
+    "main.2dea466a.js.map": "/Studynotion/static/js/main.2dea466a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ca9afe0.css",
+    "static/js/main.2dea466a.js"
+  ]
+}
